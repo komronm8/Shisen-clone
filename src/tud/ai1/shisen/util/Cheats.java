@@ -159,15 +159,15 @@ public class Cheats {
 		int score = grid.getScore();
 		switch (cheatID){
 			case(Consts.CHEAT_HINT):
-				if(Consts.CHEAT_COST_HINT + score > 0){
+				if(Consts.CHEAT_COST_HINT + score >= 0){
 					return true;
 				}
 			case(Consts.CHEAT_FIND_PARTNER):
-				if(Consts.CHEAT_COST_FIND_PARTNER + score > 0 ){
+				if(Consts.CHEAT_COST_FIND_PARTNER + score >= 0 ){
 					return true;
 				}
 			case(Consts.CHEAT_SOLVE_PAIR):
-				if(Consts.CHEAT_COST_SOLVE_PAIR + score > 0){
+				if(Consts.CHEAT_COST_SOLVE_PAIR + score >= 0){
 					return true;
 				}
 		}

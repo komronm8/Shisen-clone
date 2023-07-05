@@ -2,10 +2,5 @@
 Programmierprojekt : Shisen
 Abgabeschluss ist der 05.07.2023 um 22:00 Uhr
 
-Name: 
-Matrikelnummer: 
-TU-ID: 
-
-Name: 
-Matrikelnummer: 
-TU-ID: 
+Name: Komron Adbulloev
+Matrikelnummer: 231579
